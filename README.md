@@ -28,16 +28,17 @@ Day 4: Understanding Ansible Roles
 - Comparing roles with playbooks and understanding their advantages.
 - Hands-on: Creating a simple role and using it in a playbook.
 
-Day 5: Deep Dive into Ansible Roles
+Day 5: Deep Dive into Ansible Roles with Demo
 
-- Advanced usage of Ansible roles with a practical example project.
-- Ansible Galaxy - Exploring pre-built Ansible roles
-- Incorporating all the concepts learned so far into a complex project.
+- Ansible Galaxy - Exploring pre-built Ansible roles.
+- Ansible Galaxy - Importing and Installing roles.
+- DEMO: Advanced usage of Ansible roles with a practical example project.
 - Best practices for organizing roles and playbook structure.
 
 Day 6: Ansible Variables and Precedence
 
-- Understanding Ansible variables and their scope.
+- Create AWS Resources using Ansible (Collections)
+- Understanding Ansible variables and their scope with an example
 - Jinja2 Templating - Utilizing advanced templating features
 - Variable precedence: How Ansible resolves conflicts between different variable sources.
 - Hands-on: Using variables in playbooks and roles.
